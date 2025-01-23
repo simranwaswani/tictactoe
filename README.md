@@ -31,4 +31,4 @@ A fun and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/simranvaswani/tic-tac-toe.git
